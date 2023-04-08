@@ -5,6 +5,8 @@
 
 - 🤖 Project Name **Energy management and monitoring system within industry 4.0**
 
+- 🦋 collaboration with <a href="https://github.com/hibachouchou" target="_blank" /> Hiba Chouchène 🦋
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.instagram.com/ayedmehdi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
