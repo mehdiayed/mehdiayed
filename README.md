@@ -104,10 +104,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdiayed&show_icons=true&locale=en&layout=compact"
         alt="mehdiayed" /></p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;
+<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=mehdiayed&show_icons=true&locale=en" alt="mehdiayed" />
 </p>
-
+<img align="right" src="./assets/cat2.gif" width="130" height="130" /> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiayed&" alt="mehdiayed" /></p>  
 &nbsp;
