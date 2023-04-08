@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehdi Ayed</h1>
-<h3 align="center">A passionate Game, Web, and Mobile Developer from Tunisia ♥</h3>
+<h1 align="center">Hi 👋, I'm Mehdi Ayed </h1>
+<h3 align="center">A passionate Game, Web, and Mobile Developer from Tunisia ♥  </h3>
 
 - 🔭 I’m currently working on **PFE project**
 
