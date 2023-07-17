@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Ayed </h1>
 <h3 align="center">A passionate Game, Web, and Mobile Developer from Tunisia ♥  </h3>
 
-- 🔭 I’m currently working on **PFE project**
-
-- 🤖 Project Name **Energy management and monitoring system within industry 4.0**
-
-- 🦋 collaboration with <a href="https://github.com/hibachouchou" target="_blank" /> Hiba Chouchène 🦋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
